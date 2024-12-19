@@ -92,8 +92,7 @@ header {
 .header-left {
   float: left;
   color: white;
-  margin-top: 0px;
-  margin-bottom: 5px;
+  padding: 20px 0px;
 }
 
 .header-right {
@@ -140,6 +139,7 @@ header {
 
 .lesson-icon {
   position: relative;
+  border-radius: 20px;
   }
 
 .lesson-icon p {
