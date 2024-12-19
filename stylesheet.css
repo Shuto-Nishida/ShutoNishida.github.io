@@ -80,7 +80,7 @@ header {
   width: 100%;
   background-color: #CC99FF;
   position :fixed;
-  top: 0;
+  top: 50;
   z-index: 10;
 }
 
