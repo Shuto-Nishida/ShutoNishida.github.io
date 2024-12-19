@@ -92,7 +92,7 @@ header {
 .header-left {
   float: left;
   color: white;
-  margin-top: -15px;
+  margin-top: -12px;
 }
 
 .header-right {
@@ -139,8 +139,7 @@ header {
 
 .lesson-icon {
   position: relative;
-  border: 2px black solid;
-  border-radius: 20px;
+  
   }
 
 .lesson-icon p {
