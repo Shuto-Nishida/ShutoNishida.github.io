@@ -92,7 +92,8 @@ header {
 .header-left {
   float: left;
   color: white;
-  margin-top: 25px;
+  margin-top: 0px;
+  margin-bottom: 5px;
 }
 
 .header-right {
