@@ -142,6 +142,9 @@ header {
   
   }
 
+.dei{
+  border-radius: 10px;
+}
 .lesson-icon p {
   position: absolute;
   top: 80%;
