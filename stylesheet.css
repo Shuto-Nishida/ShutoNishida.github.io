@@ -142,12 +142,21 @@ header {
   
   }
 
-.dei{
+.d-ei{
+  border-radius: 10px;
+}
+.s-ei{
+  border-radius: 10px;
+}
+.k-ei{
+  border-radius: 10px;
+}
+.y-ei{
   border-radius: 10px;
 }
 .lesson-icon p {
   position: absolute;
-  top: 80%;
+  top: 50%;
   width: 100%;
   color: #000000;
 }
