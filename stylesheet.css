@@ -92,7 +92,7 @@ header {
 .header-left {
   float: left;
   color: white;
-  margin-top: -12px;
+  margin-top: -13px;
 }
 
 .header-right {
@@ -156,7 +156,7 @@ header {
 }
 .lesson-icon p {
   position: absolute;
-  top: 50%;
+  top: 100%;
   width: 100%;
   color: #000000;
 }
